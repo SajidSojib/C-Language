@@ -1,0 +1,25 @@
+======================================================================================
+ID    | Name                          | Category        | Price    | Qty | Expiry Date
+======================================================================================
+1001  | Coca Cola 1L                  | Beverages       | 80.00    | 50  | 31/12/2024
+1002  | Pepsi 1.5L                    | Beverages       | 90.00    | 45  | 28/02/2025
+1003  | Lay's Potato Chips            | Snacks          | 30.00    | 100 | 15/06/2024
+1004  | Dairy Milk Chocolate          | Confectionery   | 50.00    | 75  | 30/09/2024
+1005  | Sunflower Oil 1L              | Cooking Oil     | 180.00   | 30  | 30/11/2024
+1006  | Basmati Rice 5kg              | Grocery         | 550.00   | 25  | 31/12/2025
+1007  | ACI Pure Salt 1kg             | Grocery         | 40.00    | 60  | 31/12/2026
+1008  | Pran Tomato Ketchup           | Condiments      | 120.00   | 40  | 30/06/2024
+1009  | Fresh Eggs (12 pieces)        | Dairy           | 140.00   | 20  | 10/04/2024
+1010  | Milk Vita 1L                  | Dairy           | 70.00    | 35  | 05/04/2024
+1011  | Maggi Noodles                 | Instant Food    | 25.00    | 85  | 30/09/2024
+1012  | Lifebuoy Soap                 | Toiletries      | 45.00    | 55  | 31/12/2025
+1013  | Closeup Toothpaste            | Toiletries      | 85.00    | 40  | 30/11/2024
+1014  | Good Morning Biscuit          | Bakery          | 20.00    | 90  | 15/05/2024
+1015  | Pran Juice 250ml              | Beverages       | 35.00    | 65  | 30/06/2024
+1016  | Chicken Sausage               | Frozen Food     | 150.00   | 25  | 30/04/2024
+1017  | Onion 1kg                     | Vegetables      | 60.00    | 70  | 20/04/2024
+1018  | Potato 1kg                    | Vegetables      | 40.00    | 80  | 25/04/2024
+1019  | Apple 1kg                     | Fruits          | 200.00   | 30  | 30/04/2024
+1020  | Banana (Dozen)                | Fruits          | 80.00    | 5  | 15/04/2024
+======================================================================================
+Total Products: 20

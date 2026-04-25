@@ -1,0 +1,12 @@
+---- Transaction on Mon Nov 10 10:17:54 2025
+1 | Bashmati Rice | 82.00 | 3 | 246.00
+Total: 246.00
+
+---- Sale on Mon Nov 10 10:32:07 2025
+1,Rice,70.50,5,352.50
+Total: 352.50
+
+---- Transaction on Mon Nov 10 12:20:30 2025
+2 | Oil | 180.00 | 5 | 900.00
+Total: 900.00
+
